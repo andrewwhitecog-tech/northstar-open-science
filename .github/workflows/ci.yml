@@ -1,0 +1,23 @@
+name: Verify Simulation Bounds & Monographs
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  pytest-verification:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install pytest
+        run: pip install pytest
+      - name: Run 10-Module Simulation Bounds Verification Suite
+        run: pytest test_simulation_bounds.py -v
+      - name: Generate Deterministic Verification Receipt
+        run: python simulation_bounds_verifier.py

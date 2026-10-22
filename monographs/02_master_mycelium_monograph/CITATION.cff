@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use or reference this research monograph or dataset, please cite it using the metadata below."
+title: "Cascadia Bioregional Mycoflora, Caffeic-Acid Bioluminescence, Amatoxin Epidemiology, and the Thermodynamics of Cellular Chitin Searing"
+type: dataset
+authors:
+  - family-names: "Andre"
+    affiliation: "NorthStar Prime Research & Publishing Institute"
+date-released: "2026-10-22"
+license: "CC-BY-4.0"
+repository-code: "https://northstarprime.net/literature/"
+abstract: >-
+  Synthesizing 45 mycological chapters and commercial agricultural research from Yamhill County, Oregon (Oregon Tilth Certified Organic OT-011161; ORS 616.706-.726), this monograph examines four interconnected domains of fungal biology and gastronomy: (1) the four-enzyme genetically encodable caffeic acid bioluminescence cycle (HispS, H3H, Luz, CPH; lambda_max ~ 520-530 nm); (2) four elevation-stratified fruiting corridors across the Pacific Northwest Cascadia bioregion; (3) forensic lookalike toxicology incorporating the November 2025 - March 2026 Northern California amatoxin outbreak (CDC MMWR Vol. 75); and (4) the two-stage dry-evaporation and Maillard searing protocol for cross-linked chitin/beta-glucan cell walls at 425°F (218°C), modeling 94.8% retention of the sulfur-histidine antioxidant L-ergothioneine.
+keywords:
+  - "mycology"
+  - "Cascadia fungi"
+  - "fungal bioluminescence"
+  - "3-hydroxyhispidin"
+  - "Amanita phalloides"
+  - "chitin thermodynamics"
+  - "ergothioneine"
+  - "mycorrhizal glomalin"

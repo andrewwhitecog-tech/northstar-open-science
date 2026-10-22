@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or reference this research monograph or dataset, please cite it using the metadata below."
+title: "A 45-Species Taxonomic, Phytochemical, and Forensic Lookalike Toxicology Compendium: The Master Herbal Bible (Pass 428)"
+type: dataset
+authors:
+  - family-names: "Andre"
+    affiliation: "NorthStar Prime Research & Publishing Institute"
+date-released: "2026-10-22"
+license: "CC-BY-4.0"
+repository-code: "https://northstarprime.net/literature/"
+abstract: >-
+  This monograph presents a 45-species botanical, morphological, phytochemical, and clinical-safety compendium verified against Royal Botanic Gardens Kew Plants of the World Online (POWO), the USDA PLANTS Database, Linnaeus (1753), and European Medicines Agency (EMA) HMPC monographs. We map primary carbon and nitrogen transmutation into three secondary metabolic super-pathways (mevalonate/MEP terpenoids, shikimate phenylpropanoids, and alk(en)yl cysteine sulfoxides), establish field-diagnostic separation matrices for high-consequence toxic lookalikes (Symphytum officinale vs. Digitalis purpurea; Daucus carota vs. Conium maculatum and Cicuta douglasii; Arctium lappa vs. Atropa belladonna), and codify strict pharmacological guardrails for calcineurin-inhibitor transplant regimens (Hypericum perforatum and Schisandra chinensis CYP3A4/P-gp modulation) and chronic kidney disease (Glycyrrhiza glabra 11-beta-HSD2 inhibition and Curcuma longa soluble oxalate load).
+keywords:
+  - "ethnobotany"
+  - "phytochemistry"
+  - "Kew POWO taxonomy"
+  - "botanical toxicology"
+  - "CYP3A4 herb-drug interactions"
+  - "terpenoids"
+  - "Digitalis lookalikes"

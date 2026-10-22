@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this textbook, clinical wall-chart atlas, or evidence database, please cite it as below."
+title: "The Definitive Book of Hyperbaric Chamber Therapy: Physics, Molecular Biology, Engineering, Clinical Indications & Longevity Frontiers"
+authors:
+  - family-names: "White"
+    given-names: "Andre"
+    affiliation: "NorthStar Biomedical & Clinical Research Publishing"
+version: "2.0.0"
+date-released: "2026-10-21"
+license: "CC-BY-4.0"
+keywords:
+  - "hyperbaric oxygen therapy"
+  - "undersea and hyperbaric medicine"
+  - "hyperoxic-hypoxic paradox"
+  - "ASME PVHO-1"
+  - "NFPA 99"

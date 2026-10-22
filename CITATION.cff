@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these monographs, datasets, or verification suites, please cite this repository."
+title: "NorthStar Open-Science Monographs, Doctoral Dissertations & Simulation Bounds Verification Suite (2026)"
+type: software
+authors:
+  - name: "Andre & NorthStar Prime Research Division"
+    website: "https://northstarprime.net/research/"
+version: "1.0.0"
+date-released: "2026-10-21"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/andrewwhitecog-tech/northstar-open-science"
+url: "https://northstarprime.net/research/"
+keywords:
+  - simulation-hypothesis
+  - quantum-monte-carlo
+  - landauer-bound
+  - bayesian-model-averaging
+  - food-systems
+  - ethnobotany
+  - mycology
+  - hyperbaric-medicine
+  - open-hardware

@@ -1,0 +1,23 @@
+{
+  "title": "NorthStar Open-Science Monographs, Doctoral Dissertations & Simulation Bounds Verification Suite (2026 v1.0.0)",
+  "upload_type": "software",
+  "description": "Open-access scholarly monographs, doctoral dissertations, BibTeX/RIS citation packages, and the 10-module Python verification suite for physical, information-theoretic, and computability bounds on the Simulation Hypothesis.",
+  "creators": [
+    {
+      "name": "Andre & NorthStar Prime Research Division"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "simulation hypothesis",
+    "quantum sign problem",
+    "Landauer bound",
+    "Kipping Bayesian bounds",
+    "food systems dissertation",
+    "Kew POWO ethnobotany",
+    "Cascadia mycology",
+    "hyperbaric medicine",
+    "open hardware"
+  ]
+}

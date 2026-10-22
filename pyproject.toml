@@ -1,0 +1,14 @@
+[project]
+name = "northstar-simulation-bounds"
+version = "1.0.0"
+description = "Executable numerical verification suite for physical, quantum, thermodynamic, and computability bounds on the Simulation Hypothesis"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT AND CC-BY-4.0"}
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["test_simulation_bounds.py"]

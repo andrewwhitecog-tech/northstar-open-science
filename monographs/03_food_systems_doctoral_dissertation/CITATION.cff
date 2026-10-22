@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use or reference this research monograph or dataset, please cite it using the metadata below."
+title: "Helios, Hydros, Aer, and Terra: A Unified Doctoral Dissertation Synthesizing Solar Photochemistry, Mycelial Biogeochemistry, Botanical Phytochemistry, Culinary Thermodynamics, Global Flavor Systems, and Precision Clinical Renal Nutrition"
+type: dataset
+authors:
+  - family-names: "Andre"
+    affiliation: "NorthStar Prime Research & Publishing Institute"
+date-released: "2026-10-22"
+license: "CC-BY-4.0"
+repository-code: "https://northstarprime.net/literature/"
+abstract: >-
+  This doctoral dissertation synthesizes nine research programs and over 1,300 documented formulations, botanical/mycological monographs, and clinical trials to trace how four elemental reservoirs—Sun (photons), Water (H2O), Air (CO2, N2, O2), and Earth (lithospheric mineral ions)—transmute into global human nourishment. Structured across six books, it unites (I) chloroplast photochemistry, nitrogenase fixation, and mycorrhizal mineral weathering; (II) 45 Kew POWO-verified botanical monographs; (III) 45 mycological chapters and chitin searing thermodynamics; (IV) 126 molecular gastronomy studies, a 91-source crust-crisping physics analysis (4:1:1 potato:corn:tapioca ternary starch optimization), receptor neurogastronomy, and commercial three-pass 500°F deck oven rheology; (V) 153 global flavor formulations across four continents and 8 cross-modal plant-based sensory illusions; and (VI) KDOQI 2020 / KDIGO 2024 hemodialysis nutrition adequacy and planetary abundance engineering.
+keywords:
+  - "food systems"
+  - "biogeochemical gastronomy"
+  - "culinary physics"
+  - "hydrocolloid crisping"
+  - "world flavor atlas"
+  - "renal nutrition"
+  - "KDOQI 2020"
+  - "epistemic provenance"

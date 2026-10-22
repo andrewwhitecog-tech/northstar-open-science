@@ -1,0 +1,35 @@
+{
+  "title": "Cascadia Bioregional Mycoflora, Caffeic-Acid Bioluminescence, Amatoxin Epidemiology, and the Thermodynamics of Cellular Chitin Searing",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "publication_date": "2026-10-22",
+  "creators": [
+    {
+      "name": "Andre",
+      "affiliation": "NorthStar Prime Research & Publishing Institute"
+    },
+    {
+      "name": "NorthStar Collaborative Research Faculty",
+      "affiliation": "NorthStar Prime Research & Publishing Institute"
+    }
+  ],
+  "description": "Synthesizing 45 mycological chapters and commercial agricultural research from Yamhill County, Oregon (Oregon Tilth Certified Organic OT-011161; ORS 616.706-.726), this monograph examines four interconnected domains of fungal biology and gastronomy: (1) the four-enzyme genetically encodable caffeic acid bioluminescence cycle (HispS, H3H, Luz, CPH; lambda_max ~ 520-530 nm); (2) four elevation-stratified fruiting corridors across the Pacific Northwest Cascadia bioregion; (3) forensic lookalike toxicology incorporating the November 2025 - March 2026 Northern California amatoxin outbreak (CDC MMWR Vol. 75); and (4) the two-stage dry-evaporation and Maillard searing protocol for cross-linked chitin/beta-glucan cell walls at 425\u00b0F (218\u00b0C), modeling 94.8% retention of the sulfur-histidine antioxidant L-ergothioneine.",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "mycology",
+    "Cascadia fungi",
+    "fungal bioluminescence",
+    "3-hydroxyhispidin",
+    "Amanita phalloides",
+    "chitin thermodynamics",
+    "ergothioneine",
+    "mycorrhizal glomalin"
+  ],
+  "notes": "Epistemic Status: VERIFIED_EMPIRICAL_AND_MECHANISTIC_SYNTHESIS | Clinical/Publication Gate: Cleared for mycological, ecological, and food-science publication (incorporates CDC 2026 MMWR amatoxin warnings and OHA Fact Sheet #8).",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ]
+}

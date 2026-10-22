@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or reference this research monograph or dataset, please cite it using the metadata below."
+title: "NorthStar Invention Forge MK1–MK55: Parametric CAD, KiCad Schematic Architecture, and Theoretical Applied Physics Derivations"
+type: dataset
+authors:
+  - family-names: "Andre"
+    affiliation: "NorthStar Prime Research & Publishing Institute"
+date-released: "2026-10-22"
+license: "CC-BY-4.0"
+repository-code: "https://northstarprime.net/literature/"
+abstract: >-
+  This compendium packages the theoretical engineering derivations, ISO-10303-21 STEP solid-model geometries, KiCad 8.0 schematic netlists, and bills of materials across the NorthStar Invention Forge series (MK1 through MK55), accompanied by our automated structural verifier (engineering_integrity.py). In strict compliance with NorthStar's engineering integrity standard, all designs are published with explicit epistemic provenance distinguishing verified physical governing equations and structural file completeness from physical prototype fabrication certification.
+keywords:
+  - "open hardware"
+  - "STEP CAD"
+  - "KiCad schematics"
+  - "applied physics"
+  - "parametric engineering"
+  - "structural validation"

@@ -1,0 +1,35 @@
+{
+  "title": "Helios, Hydros, Aer, and Terra: A Unified Doctoral Dissertation Synthesizing Solar Photochemistry, Mycelial Biogeochemistry, Botanical Phytochemistry, Culinary Thermodynamics, Global Flavor Systems, and Precision Clinical Renal Nutrition",
+  "upload_type": "publication",
+  "publication_type": "thesis",
+  "publication_date": "2026-10-22",
+  "creators": [
+    {
+      "name": "Andre",
+      "affiliation": "NorthStar Prime Research & Publishing Institute"
+    },
+    {
+      "name": "NorthStar Collaborative Research Faculty",
+      "affiliation": "NorthStar Prime Research & Publishing Institute"
+    }
+  ],
+  "description": "This doctoral dissertation synthesizes nine research programs and over 1,300 documented formulations, botanical/mycological monographs, and clinical trials to trace how four elemental reservoirs\u2014Sun (photons), Water (H2O), Air (CO2, N2, O2), and Earth (lithospheric mineral ions)\u2014transmute into global human nourishment. Structured across six books, it unites (I) chloroplast photochemistry, nitrogenase fixation, and mycorrhizal mineral weathering; (II) 45 Kew POWO-verified botanical monographs; (III) 45 mycological chapters and chitin searing thermodynamics; (IV) 126 molecular gastronomy studies, a 91-source crust-crisping physics analysis (4:1:1 potato:corn:tapioca ternary starch optimization), receptor neurogastronomy, and commercial three-pass 500\u00b0F deck oven rheology; (V) 153 global flavor formulations across four continents and 8 cross-modal plant-based sensory illusions; and (VI) KDOQI 2020 / KDIGO 2024 hemodialysis nutrition adequacy and planetary abundance engineering.",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "food systems",
+    "biogeochemical gastronomy",
+    "culinary physics",
+    "hydrocolloid crisping",
+    "world flavor atlas",
+    "renal nutrition",
+    "KDOQI 2020",
+    "epistemic provenance"
+  ],
+  "notes": "Epistemic Status: VERIFIED_INFERRED_PROPOSED_TAGGED | Clinical/Publication Gate: Books I\u2013V are immediately clear for open-access deposit; Book VI (Clinical Hemodialysis Literature Synthesis) is clearly tagged as a guideline/literature synthesis (KDOQI 2020, KDIGO 2024) rather than individual patient medical advice.",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ]
+}
